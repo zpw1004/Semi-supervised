@@ -36,6 +36,7 @@ This project is a deep learning model for geological data analysis, designed to 
 -	matplotlib == 3.7.5
 -	seaborn == 0.12.2
 -	scikit-learn == 1.3.2
+-	torch == 2.0.0
 ***
 
 
