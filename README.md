@@ -13,7 +13,7 @@
   <img src="output/db_chart.jpg" width="400" />
 </div>
 
-- **Lithologic visualizatio**
+- **Lithologic visualization**
 <div align="center">
   <img src="output/pre_lith.jpg" width="600" />
 </div>
@@ -36,12 +36,9 @@ This project is a deep learning model for geological data analysis, designed to 
 -	matplotlib == 3.7.5
 -	seaborn == 0.12.2
 -	scikit-learn == 1.3.2
+-	torch == 2.0.0
 ***
 
 
-
-
-
-#### 3、**main. py** is executed on two datasets. It performs lithology identification through a lightweight multi-scale adaptive fusion network.
 
 
